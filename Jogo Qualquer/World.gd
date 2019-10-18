@@ -25,5 +25,11 @@ func _on_choose_o_pressed():
 	set_process(true)
 	pass 
 
+
+
 func _process(delta):
-	print(player_side)
+	pass
+
+func _on_Button_pressed():
+	print("Leonardo é gay")
+	pass # Replace with function body.
